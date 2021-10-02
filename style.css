@@ -1,5 +1,9 @@
 * {box-sizing: border-box;}
 
+body{
+ background-color: #0d1117;
+}
+
 .img-comp-container {
   position: relative;
   height: 720px; /*should be the same height as the images*/
